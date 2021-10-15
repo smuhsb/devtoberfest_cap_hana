@@ -1,3 +1,11 @@
+### Notes
+Link for the tutorial followed: https://developers.sap.com/mission.hana-cloud-cap.html
+
+### Learnings
+1. Don't format the 'db/*.cds' as it causes issues
+2. Be careful when changing the default-env.json
+
+
 # Getting Started
 
 Welcome to your new project.
